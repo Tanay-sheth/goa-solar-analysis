@@ -1,0 +1,13 @@
+Month,Month_Name,Avg_Solar_Elevation,Max_Solar_Elevation,Recommended_Fixed_Tilt,Season,Recommended_Azimuth
+1,January,33.13,56.88,30,Winter,180
+2,February,37.24,66.55,30,Winter,180
+3,March,40.88,77.72,15,Equinox,180
+4,April,45.53,83.19,15,Equinox,180
+5,May,46.93,83.18,0,Summer,180
+6,June,43.71,80.82,0,Summer,180
+7,July,43.34,84.77,0,Summer,180
+8,August,45.86,85.24,0,Summer,180
+9,September,42.8,80.31,15,Equinox,180
+10,October,37.07,70.18,15,Equinox,180
+11,November,33.98,59.57,30,Winter,180
+12,December,30.37,52.17,30,Winter,180
